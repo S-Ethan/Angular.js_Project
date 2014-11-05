@@ -1,0 +1,9 @@
+{
+  "name": "Angular project",
+  "version": "0.0.1",
+  "description": "A project to work on Angular.Js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-ethan/angular.git"
+  }
+}
