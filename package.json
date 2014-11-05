@@ -1,9 +1,13 @@
 {
-  "name": "Angular project",
+  "name": "Angular_project",
   "version": "0.0.1",
   "description": "A project to work on Angular.Js",
   "repository": {
     "type": "git",
     "url": "https://github.com/s-ethan/angular.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-connect": "^2.2.0"
   }
 }
