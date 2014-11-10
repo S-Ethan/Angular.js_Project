@@ -1,3 +1,3 @@
 # Angular Project
 
-This is project is just me learning Angular.js.
+This project is just me learning Angular.js.
